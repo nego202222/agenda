@@ -46,6 +46,8 @@ $msg_falhas = ["Falha ao cadastrar contato.",
       <input type="email" id="email" name="email" class="form-control" required>
       <label for="telefone">Telefone:</label>
       <input type="tel" id="telefone" name="telefone" class="form-control">
+      <label for="telefone">Telefone 2 :</label>
+      <input type="tel" id="telefone" name="telefone" class="form-control">
       <br>
       <button type="submit" class="btn btn-primary">Cadastrar</button>
     </form>
